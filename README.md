@@ -107,6 +107,7 @@ iot-filter-air/
 5. Run the system
 
 ---
+![Alat Filter Air](docs/nama-file-gambar.jpg)
 
 ## 🇮🇩 Catatan
 Pastikan semua sensor telah dikalibrasi untuk mendapatkan hasil yang akurat.
